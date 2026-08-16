@@ -1,0 +1,20 @@
+================================================================
+  MATHS OLYMPIAD (IMO) — EXTRACTION REPORT
+================================================================
+  Total questions extracted     : 317
+  Questions with graphics       : 154
+  Questions with correct answer : 70
+  Questions with hint           : 0
+  Questions with explanation    : 53
+  A/B/C/D type questions        : 307
+  P/Q/R/S type questions        : 10
+
+  Chapter breakdown:
+    3 Fractions                                      : 58 questions
+    Chapter 1: Number Sense                          : 30 questions
+    Chapter 2: Computation Operations                : 30 questions
+    Chapter 3: Fractions                             : 31 questions
+    Chapter 4: Length, Weight, Capacity, Time and Money : 30 questions
+    Chapter 5: Geometry                              : 30 questions
+    Chapter 6: Data Handling                         : 30 questions
+    Chapter 7: Logical Reasoning                     : 78 questions

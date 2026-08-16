@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olympiad Exam Web Application</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <h1>IMO Math Olympiad</h1>
+      <div id="mode-indicator" class="hidden">Mode: <span id="mode-text">Practice</span></div>
+    </div>
+  </header>
+
+  <!-- Main Content Area -->
+  <main class="app-main">
+
+    <!-- View 1: Dashboard (Chapter Selection) -->
+    <section id="view-dashboard" class="view active">
+      <div class="dashboard-container">
+        <h2>Select a Chapter to Begin</h2>
+        
+        <div class="mode-selection">
+          <label class="mode-card">
+            <input type="radio" name="quiz-mode" value="practice" checked>
+            <div class="mode-card-content">
+              <h3>🎯 Practice Mode</h3>
+              <p>Get immediate feedback and view hints/explanations.</p>
+            </div>
+          </label>
+          <label class="mode-card">
+            <input type="radio" name="quiz-mode" value="exam">
+            <div class="mode-card-content">
+              <h3>⏱️ Exam Mode</h3>
+              <p>Simulated exam environment with a timer. Results at the end.</p>
+            </div>
+          </label>
+        </div>
+
+        <div id="chapter-list" class="chapter-grid">
+          <!-- Chapters will be loaded here dynamically -->
+          <div class="loading-text">Loading chapters...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- View 2: Loading State -->
+    <section id="view-loading" class="view hidden">
+      <div class="loader-container">
+        <div class="spinner"></div>
+        <p>Loading questions...</p>
+      </div>
+    </section>
+
+    <!-- View 3: Quiz Player -->
+    <section id="view-quiz" class="view hidden">
+      <div class="quiz-header">
+        <button id="btn-back-dashboard" class="btn btn-secondary">← Back</button>
+        <div class="quiz-stats">
+          <span id="question-counter">Question 1 of 10</span>
+          <span id="score-tracker" class="hidden">Score: 0</span>
+          <span id="timer-display" class="hidden">00:00</span>
+        </div>
+        <button id="btn-toggle-navigator" class="btn btn-secondary">🔢 Navigator</button>
+      </div>
+
+      <!-- Question Navigator Overlay -->
+      <div id="navigator-overlay" class="hidden">
+        <div class="navigator-container">
+          <h3>Question Navigator</h3>
+          <div id="navigator-grid" class="navigator-grid"></div>
+          <button id="btn-close-navigator" class="btn btn-primary">Close</button>
+        </div>
+      </div>
+
+      <div class="quiz-container">
+        <!-- Question Section -->
+        <div class="question-section">
+          <h2 id="question-text" class="question-text">Question text goes here</h2>
+          <div id="question-image-container" class="question-image-container hidden">
+            <img id="question-image" src="" alt="Question Graphic">
+          </div>
+        </div>
+
+        <!-- Options Section -->
+        <div class="options-section">
+          <div id="options-container" class="options-grid">
+            <!-- Options dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Feedback & Explanations -->
+        <div id="feedback-section" class="feedback-section hidden">
+          <div id="feedback-badge" class="feedback-badge"></div>
+          <div id="hint-container" class="hint-container hidden">
+            <h4>💡 Hint</h4>
+            <p id="hint-text"></p>
+          </div>
+          <div id="explanation-container" class="explanation-container hidden">
+            <h4>📖 Explanation</h4>
+            <p id="explanation-text"></p>
+          </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="quiz-actions">
+          <button id="btn-prev" class="btn btn-outline" disabled>⬅️ Previous</button>
+          <button id="btn-show-hint" class="btn btn-outline hidden">💡 Show Hint</button>
+          <button id="btn-check-answer" class="btn btn-primary hidden">Check Answer</button>
+          <button id="btn-next" class="btn btn-primary">Next ➡️</button>
+          <button id="btn-finish" class="btn btn-success hidden">Finish Exam</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- View 4: Results -->
+    <section id="view-results" class="view hidden">
+      <div class="results-container">
+        <h2>Quiz Completed! 🎉</h2>
+        <div class="score-card">
+          <div class="score-circle">
+            <span id="final-score">0/0</span>
+          </div>
+          <p id="score-percentage" class="score-percentage">0%</p>
+        </div>
+        
+        <div class="results-actions">
+          <button id="btn-retry-incorrect" class="btn btn-primary hidden">🔄 Retry Incorrect Questions</button>
+          <button id="btn-return-home" class="btn btn-secondary">🏠 Return to Dashboard</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Load Index Data -->
+  <script src="data/index.js"></script>
+  <!-- Load App Logic -->
+  <script src="app.js"></script>
+</body>
+</html>
