@@ -69,7 +69,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 1,
         "section": "Mathematical Reasoning",
         "id": 4,
-        "question": "Which of the following statements is CORRECT? [Boats labeled P: 3850, Q: 3894, R: 3628, S: 3600]",
+        "question": "Which of the following statements is CORRECT? \n [Boats labeled P: 3850, Q: 3894, R: 3628, S: 3600]",
         "option_type": "ABCD",
         "options": {
             "A": "P is the largest among all the numbers.",
@@ -132,7 +132,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 2,
         "section": "Mathematical Reasoning",
         "id": 7,
-        "question": "Which of the following options shows the given numbers arranged in descending order?\nBalloons labeled: P: 83705, Q: 83057, R: 83750, S: 83757",
+        "question": "Which of the following options shows the given numbers arranged in descending order?\n [Balloons labeled: P: 83705, Q: 83057, R: 83750, S: 83757]",
         "option_type": "ABCD",
         "options": {
             "A": "Q, R, S, P",
@@ -195,7 +195,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 2,
         "section": "Mathematical Reasoning",
         "id": 10,
-        "question": "The bunny is holding the number after rounding off to nearest thousands. Which of the following could be the number?\nBunny holding sign: 75000",
+        "question": "The bunny is holding the number after rounding off to nearest thousands. Which of the following could be the number?\n [Bunny holding sign: 75000]",
         "option_type": "ABCD",
         "options": {
             "A": "74936",
@@ -300,7 +300,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 3,
         "section": "Mathematical Reasoning",
         "id": 15,
-        "question": "Select the correct option.\n(A) Place value of digit 2 in 2545 is 20000.\n(B) Face value of digit 5 in 63540 is 500.\n(C) Place value of digit 7 in 78486 is 70000.\n(D) Face value of digit 3 in 2435 is 300.",
+        "question": "Select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "Place value of digit 2 in 2545 is 20000.",
@@ -321,7 +321,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 3,
         "section": "Mathematical Reasoning",
         "id": 16,
-        "question": "What could not be the number on star Q, so that the numbers on stars are arranged in ascending order?\n[Graphic: Stars labeled P(3456), Q, R(3482), S(3560), T(3600)]",
+        "question": "What could not be the number on star Q, so that the numbers on stars are arranged in ascending order? \n [Stars labeled P(3456), Q, R(3482), S(3560), T(3600)]",
         "option_type": "ABCD",
         "options": {
             "A": "3462",
@@ -342,7 +342,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 3,
         "section": "Mathematical Reasoning",
         "id": 17,
-        "question": "Which of the following is the greatest?\n(A) DXLVII (B) CDL (C) CMXC (D) CMLXV",
+        "question": "Which of the following is the greatest?",
         "option_type": "ABCD",
         "options": {
             "A": "DXLVII",
@@ -363,7 +363,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 3,
         "section": "Mathematical Reasoning",
         "id": 18,
-        "question": "Which of the following abacus represents thirty eight thousand four hundred five?\n[Graphic: Three abacus diagrams labeled (A), (B), (C) with columns TTh, Th, H, T, O]",
+        "question": "Which of the following abacus represents thirty eight thousand four hundred five?",
         "option_type": "ABCD",
         "options": {
             "A": "Abacus A",
@@ -405,7 +405,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 3,
         "section": "Mathematical Reasoning",
         "id": 20,
-        "question": "Which of the following is same as the number shown?\n[Graphic: A dog house with the number 80043 written on it]",
+        "question": "Which of the following is same as the number shown? \n [A dog house with the number 80043 written on it]",
         "option_type": "ABCD",
         "options": {
             "A": "8000 + 40 + 3",
@@ -426,7 +426,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 4,
         "section": "EVERYDAY MATHEMATICS",
         "id": 21,
-        "question": "Nitya bought the given television. Round off the price of television to its nearest thousands. (Image shows a television with a price tag of ₹ 92548)",
+        "question": "Nitya bought the given television. Round off the price of television to its nearest thousands. \n [Image shows a television with a price tag of ₹ 92548]",
         "option_type": "ABCD",
         "options": {
             "A": "₹ 92000",
@@ -489,7 +489,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 4,
         "section": "EVERYDAY MATHEMATICS",
         "id": 24,
-        "question": "Four students Aditya, Chandan, Shweta and Preeti in a class call out four numbers, as shown below: (Aditya: 48653, Chandan: 48566, Shweta: 48356, Preeti: 48536). Which of the following is the Preeti’s number?",
+        "question": "Four students Aditya, Chandan, Shweta and Preeti in a class call out four numbers, as shown below: \n [Aditya: 48653, Chandan: 48566, Shweta: 48356, Preeti: 48536]. \n Which of the following is the Preeti’s number?",
         "option_type": "ABCD",
         "options": {
             "A": "Forty eight thousand six hundred fifty three.",
@@ -531,7 +531,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 5,
         "section": "Achievers Section (HOTS)",
         "id": 26,
-        "question": "Mishika has the following number cards. [Image shows cards: 4, 3, 0, 9, 6]. Her teacher asks her to form some different numbers. Match the following and select the correct option.\nColumn-I\nP. Successor of smallest 5-digit number formed by using each digit at least once is\nQ. Greatest 6-digit number formed by using each digit at least once is\nR. Smallest 6-digit number formed by using each digit at least once is\nS. Predecessor of greatest 6-digit number formed by using each digit at least once is\nColumn-II\n(i) 996430\n(ii) 996429\n(iii) 30470\n(iv) 300469",
+        "question": "Mishika has the following number cards.",
         "option_type": "PQRS",
         "options": {
             "A": "P-(iii), Q-(i), R-(ii), S-(iv)",
@@ -552,7 +552,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 5,
         "section": "Achievers Section (HOTS)",
         "id": 27,
-        "question": "Study the given statements carefully and select the correct option.\nStatement-I: In Hindu-Arabic numeral system, DCCXLVII is written as 767.\nStatement-II: Number on the abacus [Image shows abacus with beads on L, TTh, Th, H, T, O columns] is read as Two lakh forty two thousand four hundred twenty four.",
+        "question": "Study the given statements carefully and select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "Both Statement-I and Statement-II are true.",
@@ -573,7 +573,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 6,
         "section": "Achievers Section (HOTS)",
         "id": 28,
-        "question": "Which of the following options is incorrect?\n(A) Roman numerals do not have symbol for zero.\n(B) In Roman numerals, if a letter is repeated, then its values are added together.\n(C) DCDLXV is a meaningless Roman numeral.\n(D) None of these",
+        "question": "Which of the following options is incorrect?",
         "option_type": "ABCD",
         "options": {
             "A": "Roman numerals do not have symbol for zero.",
@@ -594,7 +594,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 6,
         "section": "Achievers Section (HOTS)",
         "id": 29,
-        "question": "Fill in the blanks and select the correct option.\n(p) 63845 = 60000 + ____ + 800 + 40 + 5\n(q) Place value of 3 in 13460 is ____.\n(r) There are ____ nines in Ninety nine thousand nine hundred ninety eight.\n(s) 160482 becomes ____ when rounded off to its nearest thousands.",
+        "question": "Fill in the blanks and select the correct option.",
         "option_type": "PQRS",
         "options": {
             "A": "(p) 300, (q) 3000, (r) 4, (s) 106000",
@@ -605,9 +605,9 @@ window.olympiadData['chapter_1.js'] = [
         "correct_answer": "C",
         "hint": null,
         "explanation": "(p) 63845 = 60000 + 3000 + 800 + 40 + 5 (q) Place value of 3 in 13460 is 3000. (r) Ninety nine thousand nine hundred ninety eight is 99998. So, there are 4 nines. (s) 160482 becomes 160000, when rounded off to its nearest thousands.",
-        "has_graphic": false,
-        "graphic_description": null,
-        "page_image": null
+        "has_graphic": true,
+        "graphic_description": "\n(p) 63845 = 60000 + ____ + 800 + 40 + 5\n(q) Place value of 3 in 13460 is ____.\n(r) There are ____ nines in Ninety nine thousand nine hundred ninety eight.\n(s) 160482 becomes ____ when rounded off to its nearest thousands.",
+        "page_image": "data/images/img_q29.jpg"
     },
     {
         "global_id": 30,
@@ -615,7 +615,7 @@ window.olympiadData['chapter_1.js'] = [
         "pdf_page": 6,
         "section": "Achievers Section (HOTS)",
         "id": 30,
-        "question": "Which of the following options represents the correct descending order of the number shown on the given abacuses?\n[Abacus P: TTh=2, Th=2, H=1, T=2, O=0]\n[Abacus Q: TTh=1, Th=3, H=2, T=2, O=3]\n[Abacus R: TTh=1, Th=2, H=2, T=1, O=1]\n[Abacus S: TTh=1, Th=1, H=1, T=2, O=1]",
+        "question": "Which of the following options represents the correct descending order of the number shown on the given abacuses?",
         "option_type": "ABCD",
         "options": {
             "A": "P, Q, R, S",

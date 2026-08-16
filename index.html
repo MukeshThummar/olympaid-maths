@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Olympiad Maths Quiz</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="startScreen" class="start-screen">
+      <div class="start-card">
+        <p class="eyebrow">Olympiad Maths</p>
+        <h2>Student Details</h2>
+
+        <label class="input-group" for="studentNameInput">
+          <span>Student name</span>
+          <input id="studentNameInput" type="text" maxlength="50" placeholder="Enter your name" />
+        </label>
+
+        <label class="input-group" for="startChapterSelect">
+          <span>Chapter</span>
+          <select id="startChapterSelect"></select>
+        </label>
+
+        <div class="mode-toggle" aria-label="Quiz mode selector">
+          <label>
+            <input type="radio" name="quizMode" value="practice" checked />
+            Practice
+          </label>
+          <label>
+            <input type="radio" name="quizMode" value="exam" />
+            Exam
+          </label>
+        </div>
+
+        <button id="startQuizBtn" class="primary-btn full-width" type="button">Start Quiz</button>
+      </div>
+    </div>
+
+    <div id="quizScreen" class="app-shell hidden">
+      <header class="app-header">
+        <div>
+          <p class="eyebrow">Olympiad Maths</p>
+          <h1 id="welcomeTitle">Practice Quiz</h1>
+        </div>
+        <div id="timerContainer" class="timer-container hidden">
+          <span class="timer-icon">⏱</span>
+          <span id="timerDisplay" class="timer-display">20:00</span>
+        </div>
+        <button id="resetQuizBtn" class="secondary-btn" type="button">Reset</button>
+      </header>
+
+      <div class="quiz-progress">
+        <div class="progress-bar">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+        <span id="progressText" class="progress-text">Question 1 of 10</span>
+      </div>
+
+      <main class="quiz-main">
+        <div id="questionCard" class="question-card" aria-live="polite"></div>
+      </main>
+
+      <footer class="app-footer">
+        <div class="footer-buttons">
+          <div class="nav-buttons">
+            <button id="prevBtn" class="secondary-btn">← Previous</button>
+            <button id="nextBtn" class="primary-btn">Next →</button>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="data/index.js"></script>
+    <script src="data/chapter_1.js"></script>
+    <script src="data/chapter_2.js"></script>
+    <script src="data/chapter_3.js"></script>
+    <script src="data/chapter_4.js"></script>
+    <script src="data/chapter_5.js"></script>
+    <script src="data/chapter_6.js"></script>
+    <script src="data/chapter_7.js"></script>
+    <script src="data/chapter_8.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
