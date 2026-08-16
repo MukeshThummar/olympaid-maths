@@ -111,7 +111,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 8,
         "section": "Mathematical Reasoning",
         "id": 6,
-        "question": "Select the correct option.\n(A) 23645 + 0 = 23646\n(B) 950 × 110 = 110 × 950\n(C) 45692 - 45692 = 1\n(D) None of these",
+        "question": "Select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "23645 + 0 = 23646",
@@ -132,7 +132,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 8,
         "section": "Mathematical Reasoning",
         "id": 7,
-        "question": "Which of the following option do not shows the sum is greater than 384 but less than 500?\n(A) CCVIII + CCLIX\n(B) CD + C\n(C) CDIX + LXI\n(D) CCC + CL",
+        "question": "Which of the following option do not shows the sum is greater than 384 but less than 500?",
         "option_type": "ABCD",
         "options": {
             "A": "CCVIII + CCLIX",
@@ -153,7 +153,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 8,
         "section": "Mathematical Reasoning",
         "id": 8,
-        "question": "Find the value of [bat] + [ball], if\n[bat] + [bat] + [bat] + [bat] + [bat] = 2625 and [bat] - [ball] = 297.",
+        "question": "Find the value of,",
         "option_type": "ABCD",
         "options": {
             "A": "652",
@@ -405,7 +405,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 9,
         "section": "Mathematical Reasoning",
         "id": 20,
-        "question": "Select the correct option to complete the factor tree. [Factor tree diagram shows 264 branching into 2 and 132; 132 branching into 2 and ?; ? branching into 2 and 33; 33 branching into 3 and 11]",
+        "question": "Select the correct option to complete the factor tree.",
         "option_type": "ABCD",
         "options": {
             "A": "42",
@@ -531,7 +531,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 10,
         "section": "Achievers Section (HOTS)",
         "id": 26,
-        "question": "Read the statements carefully and state 'T' for true and 'F' for false.\nP. A prime number has exactly two factors.\nQ. 1 is the smallest odd prime number.\nR. L.C.M. of 112 and 400 is 2810.\nS. The only even prime number is 2.\n\n    P  Q  R  S\n(A) T  F  T  F\n(B) T  F  F  T\n(C) T  T  F  F\n(D) F  T  F  T",
+        "question": "Read the statements carefully and state 'T' for true and 'F' for false.",
         "option_type": "PQRS",
         "options": {
             "A": "T F T F",
@@ -542,9 +542,9 @@ window.olympiadData['chapter_2.js'] = [
         "correct_answer": "B",
         "hint": null,
         "explanation": "(P) A prime number has exactly two factors 1 and itself. (True). (Q) 1 is neither prime nor composite number (False). (R) L.C.M. (112, 400) = 2 × 2 × 2 × 2 × 5 × 7 = 2800 (False). (S) The only even prime number is 2. (True)",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q56.jpg"
     },
     {
         "global_id": 57,
@@ -552,7 +552,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 10,
         "section": "Achievers Section (HOTS)",
         "id": 27,
-        "question": "Fill in the blanks and find the value of (P + Q – R) × S.\n(i) 25482 ÷ 12 gives Quotient = _P_, Remainder = _R_\n(ii) 45936 ÷ 36 gives Quotient = _Q_, Remainder = _S_",
+        "question": "Fill in the blanks and find the value of (P + Q – R) × S.",
         "option_type": "ABCD",
         "options": {
             "A": "0",
@@ -563,9 +563,9 @@ window.olympiadData['chapter_2.js'] = [
         "correct_answer": "A",
         "hint": null,
         "explanation": "(i) 25482 ÷ 12 gives quotient 2123 and remainder 6. So, P = 2123, R = 6. (ii) 45936 ÷ 36 gives quotient 1276 and remainder 0. So, Q = 1276, S = 0. Therefore, (P + Q - R) × S = (2123 + 1276 - 6) × 0 = 0",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q57.jpg"
     },
     {
         "global_id": 58,
@@ -573,7 +573,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 10,
         "section": "Achievers Section (HOTS)",
         "id": 28,
-        "question": "Select the correct option.\n(A) Smallest 2-digit number that has only 2 prime factors is 10.\n(B) The estimated difference of 19364 and 12485 is 6900, if the numbers are rounded off to their nearest thousands.\n(C) If the cost of each cookie is ₹ 20, then the cost of 4280 such cookies is ₹ 64200.\n(D) None of these",
+        "question": "Select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "Smallest 2-digit number that has only 2 prime factors is 10.",
@@ -594,7 +594,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 11,
         "section": "Achievers Section (HOTS)",
         "id": 29,
-        "question": "Each letter represents a different digit. The same letter represents the same digit. The digits represented by the letters A and B respectively are ____. \n  A B A\n×       8\n  3 3 9 B",
+        "question": "Each letter represents a different digit. The same letter represents the same digit. The digits represented by the letters A and B respectively are ____.",
         "option_type": "ABCD",
         "options": {
             "A": "5, 4",
@@ -615,7 +615,7 @@ window.olympiadData['chapter_2.js'] = [
         "pdf_page": 11,
         "section": "Achievers Section (HOTS)",
         "id": 30,
-        "question": "Answer the following questions and select the correct option.\n(P) There are 1250 seats in a school's auditorium. How many total seats will be there in 15 such auditoriums?\n(Q) What should be the remainder, when 1557 is divided by 32?",
+        "question": "Answer the following questions and select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "(P) 18750, (Q) 25",
