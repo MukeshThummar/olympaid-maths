@@ -6,7 +6,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 26,
         "section": "Mathematical Reasoning",
         "id": 1,
-        "question": "What is the perimeter of the given figure? [Diagram shows a shape made of 10 squares, with the height of one square labeled as 3 cm]",
+        "question": "What is the perimeter of the given figure?",
         "option_type": "ABCD",
         "options": {
             "A": "68 cm",
@@ -31,13 +31,13 @@ window.olympiadData['chapter_5.js'] = [
         "option_type": "ABCD",
         "options": {
             "A": "7 cm",
-            "B": "10 1/2 cm",
+            "B": "10 ¹⁄₂ cm",
             "C": "10 cm",
             "D": "24 cm"
         },
         "correct_answer": "B",
         "hint": null,
-        "explanation": "Diameter of circle = 2 * Radius => 21 = 2 * Radius => Radius = 21/2 = 10 1/2 cm",
+        "explanation": "Diameter of circle = 2 * Radius => 21 = 2 * Radius => Radius = 21/2 = 10 ¹⁄₂ cm",
         "has_graphic": false,
         "graphic_description": null,
         "page_image": null
@@ -48,7 +48,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 26,
         "section": "Mathematical Reasoning",
         "id": 3,
-        "question": "How many squares are there in the given figure? [Diagram shows a 3x4 grid of squares]",
+        "question": "How many squares are there in the given figure?",
         "option_type": "ABCD",
         "options": {
             "A": "36",
@@ -69,7 +69,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 26,
         "section": "Mathematical Reasoning",
         "id": 4,
-        "question": "Which of the following figures has curved face only? (A) Cone (B) Cube (C) Sphere (D) Pyramid",
+        "question": "Which of the following figures has curved face only?",
         "option_type": "ABCD",
         "options": {
             "A": "Cone",
@@ -90,7 +90,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 27,
         "section": "Mathematical Reasoning",
         "id": 5,
-        "question": "Arrange the following in ascending order of their perimeters and select the correct option.\nP. A square of side 4 cm.\nQ. A rectangle with length 3 cm and breadth 2 cm.\nR. An equilateral triangle of side 6 cm.",
+        "question": "Arrange the following in ascending order of their perimeters and select the correct option.<br/>P. A square of side 4 cm.<br/>Q. A rectangle with length 3 cm and breadth 2 cm.<br/>R. An equilateral triangle of side 6 cm.",
         "option_type": "ABCD",
         "options": {
             "A": "P, Q, R",
@@ -111,7 +111,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 27,
         "section": "Mathematical Reasoning",
         "id": 6,
-        "question": "How many of the following figures are open figures?\n[Image shows 9 distinct geometric shapes: a triangle with an extra line, a spiral, two overlapping rectangles, a U-shape, a complex polygon, a vase-like shape, a curved quadrilateral, a star-like shape, and an L-shaped line]",
+        "question": "How many of the following figures are open figures?",
         "option_type": "ABCD",
         "options": {
             "A": "0",
@@ -153,7 +153,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 27,
         "section": "Mathematical Reasoning",
         "id": 8,
-        "question": "How many lines of symmetry are there in the given figure?\n[Image shows a square grid pattern with a central 2x2 square hole]",
+        "question": "How many lines of symmetry are there in the given figure?",
         "option_type": "ABCD",
         "options": {
             "A": "0",
@@ -174,7 +174,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 27,
         "section": "Mathematical Reasoning",
         "id": 9,
-        "question": "Study the given word carefully and select the incorrect option.\n[Image shows the word 'UNDO']",
+        "question": "Study the given word carefully and select the incorrect option.",
         "option_type": "ABCD",
         "options": {
             "A": "There are 5 pairs of parallel lines.",
@@ -195,7 +195,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 27,
         "section": "Mathematical Reasoning",
         "id": 10,
-        "question": "Find the perimeter of shaded part of the given figure.\n[Image shows a 4x4 grid where some squares are shaded. A label indicates one small square side is 2 cm]",
+        "question": "Find the perimeter of shaded part of the given figure.",
         "option_type": "ABCD",
         "options": {
             "A": "36 cm",
@@ -207,7 +207,7 @@ window.olympiadData['chapter_5.js'] = [
         "hint": null,
         "explanation": "Perimeter of shaded part = 18 * 2 = 36 cm",
         "has_graphic": true,
-        "graphic_description": "a 4x4 grid with some squares shaded, with a dimension label of 2 cm for one square side",
+        "graphic_description": "a 4x5 grid with some squares shaded, with a dimension label of 2 cm for one square side",
         "page_image": "data/images/img_q131.jpg"
     },
     {
@@ -216,7 +216,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 28,
         "section": "Mathematical Reasoning",
         "id": 11,
-        "question": "Select the correct match.\nShape\n(A) Cube image, Net: cross-shaped net\n(B) Cone image, Net: rectangle with two circles on sides\n(C) Pyramid image, Net: row of triangles\n(D) None of these",
+        "question": "Select the correct match.",
         "option_type": "ABCD",
         "options": {
             "A": "Cube with cross-shaped net",
@@ -237,7 +237,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 28,
         "section": "Mathematical Reasoning",
         "id": 12,
-        "question": "How many triangles and squares respectively are there in the given figure?\n(A) 14, 31\n(B) 20, 13\n(C) 13, 21\n(D) None of these",
+        "question": "How many triangles and squares respectively are there in the given figure?",
         "option_type": "ABCD",
         "options": {
             "A": "14, 31",
@@ -258,7 +258,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 28,
         "section": "Mathematical Reasoning",
         "id": 13,
-        "question": "The perimeter of a rectangle is 68 cm. If its breadth is 14 cm, then find its length.\n(A) 10 cm\n(B) 12 cm\n(C) 16 cm\n(D) 20 cm",
+        "question": "The perimeter of a rectangle is 68 cm. If its breadth is 14 cm, then find its length.",
         "option_type": "ABCD",
         "options": {
             "A": "10 cm",
@@ -279,7 +279,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 28,
         "section": "Mathematical Reasoning",
         "id": 14,
-        "question": "Which of the following figures have exactly two lines of symmetry?\n(A) [Image of a 6-square shape]\n(B) [Image of a 6-square shape]\n(C) [Image of a 6-square shape]\n(D) [Image of a 6-square shape]",
+        "question": "Which of the following figures have exactly two lines of symmetry?",
         "option_type": "ABCD",
         "options": {
             "A": "Figure A",
@@ -300,7 +300,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 28,
         "section": "Mathematical Reasoning",
         "id": 15,
-        "question": "Select the correct option.\n(A) A scalene triangle has three lines of symmetry.\n(B) A rectangle has all sides unequal.\n(C) A square has four lines of symmetry.\n(D) None of these",
+        "question": "Select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "A scalene triangle has three lines of symmetry.",
@@ -321,17 +321,17 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 29,
         "section": "Mathematical Reasoning",
         "id": 16,
-        "question": "Which of the following is parallel to BC?",
+        "question": "Which of the following is parallel to B̅C̅?",
         "option_type": "ABCD",
         "options": {
-            "A": "DF",
-            "B": "DE",
-            "C": "GH",
-            "D": "DC"
+            "A": "D̅F̅",
+            "B": "D̅E̅",
+            "C": "G̅H̅",
+            "D": "D̅C̅"
         },
         "correct_answer": "B",
         "hint": null,
-        "explanation": "DE is parallel to BC.",
+        "explanation": "D̅E̅ is parallel to B̅C̅.",
         "has_graphic": true,
         "graphic_description": "A geometric diagram showing two horizontal lines BC and DE intersected by a transversal line and a vertical line GH.",
         "page_image": "data/images/img_q137.jpg"
@@ -426,7 +426,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 30,
         "section": "EVERYDAY MATHEMATICS",
         "id": 21,
-        "question": "Sunita has a field in the shape as shown below. How much wire is used to fence the field three times? [Diagram shows a polygon with side lengths: 2 cm, 1 cm, 6 cm, 10 cm, 11 cm, 3 cm, 1 cm, 6 cm, 4 cm, 2 cm, 4 cm]",
+        "question": "Sunita has a field in the shape as shown below. How much wire is used to fence the field three times?",
         "option_type": "ABCD",
         "options": {
             "A": "168 cm",
@@ -447,7 +447,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 30,
         "section": "EVERYDAY MATHEMATICS",
         "id": 22,
-        "question": "Mayank drew a figure as shown below. How many lines of symmetry does the given figure has? [Diagram shows a rectangle with two semi-circles on the ends, divided by internal lines]",
+        "question": "Mayank drew a figure as shown below. How many lines of symmetry does the given figure has?",
         "option_type": "ABCD",
         "options": {
             "A": "0",
@@ -489,7 +489,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 30,
         "section": "EVERYDAY MATHEMATICS",
         "id": 24,
-        "question": "The perimeter of Rohan's painting frame and Priya's painting frame is same. [Diagram shows Rohan's rectangular frame with width 3 cm and Priya's square frame with side 4 cm]. What is the length of Rohan's frame?",
+        "question": "The perimeter of Rohan's painting frame and Priya's painting frame is same.",
         "option_type": "ABCD",
         "options": {
             "A": "5 cm",
@@ -531,7 +531,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 31,
         "section": "Achievers Section (HOTS)",
         "id": 26,
-        "question": "Read the following statements carefully and state 'T' for true and 'F' for false.\n(i) The radius of a circle is always less than its diameter.\n(ii) If perimeter of a square is 84 cm, then its side is of length 23 cm.\n(iii) Square is a four-sided polygon.\n(iv) In the net of a cube, there are six identical squares.",
+        "question": "Read the following statements carefully and state 'T' for true and 'F' for false.<br/>(i) The radius of a circle is always less than its diameter.<br/>(ii) If perimeter of a square is 84 cm, then its side is of length 23 cm.<br/>(iii) Square is a four-sided polygon.<br/>(iv) In the net of a cube, there are six identical squares.",
         "option_type": "PQRS",
         "options": {
             "A": "(i) T, (ii) F, (iii) T, (iv) T",
@@ -542,9 +542,9 @@ window.olympiadData['chapter_5.js'] = [
         "correct_answer": "A",
         "hint": null,
         "explanation": "(i) True; Diameter = 2 × Radius. So, radius of a circle is always less than its diameter. (ii) False; Perimeter of square = 84 cm. => 4 × side = 84 cm. => Side = 84 ÷ 4 = 21 cm ≠ 23 cm. (iii) True; Square is a four-sided polygon. (iv) True; Cube is made up of six identical squares.",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q147.jpg"
     },
     {
         "global_id": 148,
@@ -552,7 +552,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 31,
         "section": "Achievers Section (HOTS)",
         "id": 27,
-        "question": "Fill in the blanks and select the correct option.\n(i) A (P) is a simple closed figure in which all points lie at the same distance from a fixed point.\n(ii) If the side of a square is 13 cm, then its perimeter is (Q).\n(iii) Net of a cuboid has (R) faces, in which pair of opposite faces are (S).",
+        "question": "Fill in the blanks and select the correct option.<br/>(i) A (P) is a simple closed figure in which all points lie at the same distance from a fixed point.<br/>(ii) If the side of a square is 13 cm, then its perimeter is (Q).<br/>(iii) Net of a cuboid has (R) faces, in which pair of opposite faces are (S).",
         "option_type": "PQRS",
         "options": {
             "A": "(P) Circle, (Q) 56 cm, (R) 6, (S) different",
@@ -563,9 +563,9 @@ window.olympiadData['chapter_5.js'] = [
         "correct_answer": "C",
         "hint": null,
         "explanation": "(i) A circle is a simple closed figure in which all points lie at the same distance from a fixed point. (ii) Side of square = 13 cm. So, perimeter of square = 4 × side = 4 × 13 = 52 cm. (iii) Net of a cuboid has 6 faces, in which pair of opposite faces are identical.",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q148.jpg"
     },
     {
         "global_id": 149,
@@ -573,7 +573,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 31,
         "section": "Achievers Section (HOTS)",
         "id": 28,
-        "question": "Study the given figure and answer the following questions.\n(a) How many lines of symmetry does the given figure have?\n(b) What is the minimum number of straight lines required to draw the given figure?",
+        "question": "Study the given figure and answer the following questions.<br/>(a) How many lines of symmetry does the given figure have?<br/>(b) What is the minimum number of straight lines required to draw the given figure?",
         "option_type": "PQRS",
         "options": {
             "A": "(a) 1, (b) 17",
@@ -594,7 +594,7 @@ window.olympiadData['chapter_5.js'] = [
         "pdf_page": 32,
         "section": "Achievers Section (HOTS)",
         "id": 29,
-        "question": "The given figure (not drawn to scale) is made up of a rectangle, a square and a triangle. Find the perimeter of the figure. [Graphic shows a composite shape with dimensions: top width 7 cm, side height 4 cm, inner segment 9 cm, triangle sides 15 cm and 12 cm, bottom segment 5 cm]",
+        "question": "The given figure (not drawn to scale) is made up of a rectangle, a square and a triangle. Find the perimeter of the figure.",
         "option_type": "ABCD",
         "options": {
             "A": "85 cm",
