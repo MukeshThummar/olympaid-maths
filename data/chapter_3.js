@@ -27,7 +27,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 12,
         "section": "Mathematical Reasoning",
         "id": 2,
-        "question": "Select the correct option.\n(A) The simplest form of 30/16 is 15/8.\n(B) To subtract unlike fractions, just subtract the numerators.\n(C) 4/15 is greater than 13/15.\n(D) All of these",
+        "question": "Select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "The simplest form of 30/16 is 15/8.",
@@ -38,9 +38,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "A",
         "hint": null,
         "explanation": "(A) The simplest form of 30/16 = 15/8 (True). (B) To subtract like fractions, just subtract the numerators and write the common denominator below it. (False). (C) As 4 < 13, So, 4/15 < 13/15 (False).",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q62.jpg"
     },
     {
         "global_id": 63,
@@ -48,7 +48,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 13,
         "section": "Mathematical Reasoning",
         "id": 3,
-        "question": "Which of the following shows the correct descending order of the shaded fractions of the given figures? [Graphic: Four figures labeled P, Q, R, S. P is a triangle divided into 8 parts with 4 shaded. Q is a square divided into 8 parts with 4 shaded. R is a circle divided into 8 parts with 4 shaded. S is a diamond shape divided into 8 parts with 4 shaded.]",
+        "question": "Which of the following shows the correct descending order of the shaded fractions of the given figures?",
         "option_type": "ABCD",
         "options": {
             "A": "P, R, Q, S",
@@ -80,9 +80,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "C",
         "hint": null,
         "explanation": "(A) 4/9 of 45 = 20 ≠ 40; (B) 3/8 of 72 = 27 ≠ 40; (C) 5/8 of 64 = 40; (D) 5/6 of 30 = 25 ≠ 40",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q64.jpg"
     },
     {
         "global_id": 65,
@@ -90,7 +90,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 13,
         "section": "Mathematical Reasoning",
         "id": 5,
-        "question": "Which of the following options represent the shaded part of the given figures? [Graphic: Three circles, each divided into 4 parts. First circle has 2 parts shaded red, second has 2 parts shaded blue, third has 1 part shaded red.]",
+        "question": "Which of the following options represent the shaded part of the given figures?",
         "option_type": "ABCD",
         "options": {
             "A": "2/4 + 1/4 + 1/4",
@@ -122,9 +122,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "D",
         "hint": null,
         "explanation": "We have, p - 12/44 = 4/11 => p = 4/11 + 12/44 = 16/44 + 12/44 = 28/44 = 7/11",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q66.jpg"
     },
     {
         "global_id": 67,
@@ -132,7 +132,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 13,
         "section": "Mathematical Reasoning",
         "id": 7,
-        "question": "Find the sum of shaded fractions of the given figures. [Graphic: Figure (i) is an octagon with 4 parts shaded. Figure (ii) is an L-shaped grid with 3 squares shaded out of 6.]",
+        "question": "Find the sum of shaded fractions of the given figures.",
         "option_type": "ABCD",
         "options": {
             "A": "1",
@@ -153,7 +153,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 13,
         "section": "Mathematical Reasoning",
         "id": 8,
-        "question": "What fraction of the letters of the given word are consonants?\nCONJUNCTIVITIS",
+        "question": "What fraction of the letters of the given word are consonants?",
         "option_type": "ABCD",
         "options": {
             "A": "3/14",
@@ -164,9 +164,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "D",
         "hint": null,
         "explanation": "Total number of letters = 14, Number of consonants = 9, So, fraction of consonants = 9/14",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q68.jpg"
     },
     {
         "global_id": 69,
@@ -195,7 +195,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 14,
         "section": "Mathematical Reasoning",
         "id": 10,
-        "question": "Which of the following options will replace '*' in the given below equation?\n98/84 = */6",
+        "question": "Which of the following options will replace '*' in the given below equation?",
         "option_type": "ABCD",
         "options": {
             "A": "6",
@@ -206,9 +206,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "B",
         "hint": null,
         "explanation": "We have 98/84 = (98 ÷ 14) / (84 ÷ 14) = 7/6. So, * = 7",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q70.jpg"
     },
     {
         "global_id": 71,
@@ -216,7 +216,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 14,
         "section": "Mathematical Reasoning",
         "id": 11,
-        "question": "Observe the given figure and select the correct option.\n(A) (7/144 of 12) part of the given figure is shaded.\n(B) (5/36 of 12) part of the given figure is unshaded.\n(C) Both (A) and (B)\n(D) None of these",
+        "question": "Observe the given figure and select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "(7/144 of 12) part of the given figure is shaded.",
@@ -237,7 +237,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 14,
         "section": "Mathematical Reasoning",
         "id": 12,
-        "question": "Select the incorrect option.\n(A) 4 5/12 = 53/12\n(B) 6 2/5 = 32/5\n(C) 11 2/3 = 35/3\n(D) 2 7/9 = 27/9",
+        "question": "Select the incorrect option.",
         "option_type": "ABCD",
         "options": {
             "A": "4 5/12 = 53/12",
@@ -248,9 +248,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "D",
         "hint": null,
         "explanation": "(A) 4 5/12 = (12x4+5)/12 = 53/12 (Correct); (B) 6 2/5 = (6x5+2)/5 = 32/5 (Correct); (C) 11 2/3 = (11x3+2)/3 = 35/3 (Correct); (D) 2 7/9 = (2x9+7)/9 = 25/9 ≠ 27/9 (Incorrect)",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q72.jpg"
     },
     {
         "global_id": 73,
@@ -258,7 +258,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 14,
         "section": "Mathematical Reasoning",
         "id": 13,
-        "question": "The sum of unshaded fractions of [graphic 1] and [graphic 2] is ________.",
+        "question": "Select the correct option which represents the sum of unshaded fractions of the given figures.",
         "option_type": "ABCD",
         "options": {
             "A": "1/4",
@@ -279,7 +279,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 14,
         "section": "Mathematical Reasoning",
         "id": 14,
-        "question": "Compare and fill the box.\n5/8 [] 3/7",
+        "question": "Compare and fill the box.",
         "option_type": "ABCD",
         "options": {
             "A": ">",
@@ -290,9 +290,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "A",
         "hint": null,
         "explanation": "We have, 5/8 = (5x7)/(8x7) = 35/56; 3/7 = (3x8)/(7x8) = 24/56. As, 35 > 24, So, 35/56 > 24/56 i.e., 5/8 > 3/7",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q74.jpg"
     },
     {
         "global_id": 75,
@@ -300,7 +300,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 15,
         "section": "Mathematical Reasoning",
         "id": 15,
-        "question": "The simplest form of shaded fraction of the given figure is ________. [Image shows a 4x4 grid with some squares shaded]",
+        "question": "The simplest form of shaded fraction of the given figure is ________.",
         "option_type": "ABCD",
         "options": {
             "A": "1/4",
@@ -321,7 +321,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 15,
         "section": "Mathematical Reasoning",
         "id": 16,
-        "question": "What fraction of the given figure is shaded? [Image shows a circle divided into 8 equal sectors, with 7 sectors shaded]",
+        "question": "What fraction of the given figure is shaded?",
         "option_type": "ABCD",
         "options": {
             "A": "5/8",
@@ -353,9 +353,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "C",
         "hint": null,
         "explanation": "Required difference = 4 1/5 - 3 1/15 = 21/5 - 46/15 = 63/15 - 46/15 = 17/15 = 1 2/15",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q77.jpg"
     },
     {
         "global_id": 78,
@@ -374,9 +374,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "B",
         "hint": null,
         "explanation": "We have, 5/8 + 3/4 - 1/2 + 1/3 = 15/24 + 18/24 - 12/24 + 8/24 = (15+18-12+8)/24 = 29/24 = 1 5/24",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q78.jpg"
     },
     {
         "global_id": 79,
@@ -395,9 +395,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "C",
         "hint": null,
         "explanation": "80/45 = (80÷5)/(45÷5) = 16/9 = 1 7/9",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q79.jpg"
     },
     {
         "global_id": 80,
@@ -430,7 +430,7 @@ window.olympiadData['chapter_3.js'] = [
         "option_type": "ABCD",
         "options": {
             "A": "100/163",
-            "B": "1 1/63",
+            "B": "1 ¹⁄₆₃",
             "C": "93/163",
             "D": "None of these"
         },
@@ -489,11 +489,11 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 16,
         "section": "EVERYDAY MATHEMATICS",
         "id": 24,
-        "question": "A teacher asks her 3 students to colour the same figure. The students paint the figures as shown below. [Graphic: Three 3x3 grids. Sumit's grid has 4.5 squares coloured. Payal's grid has 4 squares coloured. Tarun's grid has 5 squares coloured.] Which of the following options represent the sum of coloured fractions of the above figures?",
+        "question": "A teacher asks her 3 students to colour the same figure. The students paint the figures as shown below.",
         "option_type": "ABCD",
         "options": {
-            "A": "1 13/18",
-            "B": "2 13/18",
+            "A": "1 ¹³⁄₁₈",
+            "B": "2 ¹³⁄₁₈",
             "C": "13/18",
             "D": "18/13"
         },
@@ -528,44 +528,23 @@ window.olympiadData['chapter_3.js'] = [
     {
         "global_id": 86,
         "chapter": "Chapter 3: Fractions",
-        "pdf_page": 16,
+        "pdf_page": 17,
         "section": "ACHIEVERS SECTION (HOTS)",
         "id": 26,
-        "question": "What is the value of [Pencil Case] + [Pot] + [Pencil Box] + [Wallet] = ? Given: [Pencil Case] + [Pot] + [Pot] = 3 1/12",
+        "question": "What is the value of,",
         "option_type": "ABCD",
         "options": {
-            "A": "Not provided",
-            "B": "Not provided",
-            "C": "Not provided",
-            "D": "Not provided"
+            "A": "7 ⁷⁄₉",
+            "B": "1 ⁴⁄₉",
+            "C": "4 ¹⁄₄",
+            "D": "1 ⁸⁄₉"
         },
         "correct_answer": "C",
         "hint": null,
         "explanation": "By adding the four given equations and simplifying the sum of fractions, the result is 306/24 = 51/4 = 12 3/4.",
         "has_graphic": true,
-        "graphic_description": "Images of a pencil case, a pot, a pencil box, and a wallet used in an algebraic equation.",
-        "page_image": "data/images/img_q86.jpg"
-    },
-    {
-        "global_id": 87,
-        "chapter": "Chapter 3: Fractions",
-        "pdf_page": 17,
-        "section": "ACHIEVERS SECTION (HOTS)",
-        "id": 26,
-        "question": "The image shows three equations:\n1) Pot + Wallet + Pencil Case = 5 1/24\n2) Wallet + Wallet + Pencil Holder = 1 1/4\n3) Pencil Holder + Pencil Case + Pencil Case = 3 3/8\nFind the sum of the values of the three items.",
-        "option_type": "ABCD",
-        "options": {
-            "A": "7 7/9",
-            "B": "1 4/9",
-            "C": "4 1/4",
-            "D": "1 8/9"
-        },
-        "correct_answer": null,
-        "hint": null,
-        "explanation": null,
-        "has_graphic": true,
         "graphic_description": "Three equations represented by images of a pot, a wallet, a pencil case, and a pencil holder with their respective sums.",
-        "page_image": "data/images/img_q87.jpg"
+        "page_image": "data/images/img_q86.jpg"
     },
     {
         "global_id": 88,
@@ -573,7 +552,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 17,
         "section": "ACHIEVERS SECTION (HOTS)",
         "id": 27,
-        "question": "Match the following and select the correct option.\nColumn-I:\n(p) 4/9 + 3/18 =\n(q) 7/8 + 1/24 =\n(r) 32/27 - 12/27 =\n(s) 13 1/2 - 5/4 =\n\nColumn-II:\n(i) 20/27\n(ii) 11/18\n(iii) 12 1/4\n(iv) 11/12",
+        "question": "Match the following and select the correct option.",
         "option_type": "PQRS",
         "options": {
             "A": "(p)-(ii), (q)-(i), (r)-(iii), (s)-(iv)",
@@ -584,9 +563,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "B",
         "hint": null,
         "explanation": "(p) 4/9 + 3/18 = 8/18 + 3/18 = 11/18; (q) 7/8 + 1/24 = 21/24 + 1/24 = 22/24 = 11/12; (r) 32/27 - 12/27 = 20/27; (s) 13 1/2 - 5/4 = 27/2 - 5/4 = 54/4 - 5/4 = 49/4 = 12 1/4.",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q88.jpg"
     },
     {
         "global_id": 89,
@@ -594,7 +573,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 18,
         "section": "ACHIEVERS SECTION (HOTS)",
         "id": 28,
-        "question": "Read the following statements carefully and state 'T' for true and 'F' for false.\n(P) Two fractions are said to be equivalent, if they have same numerators.\n(Q) Any proper fraction can be converted into mixed fraction.\n(R) Unlike fractions have different denominators.\n(S) If numerator is less than the denominator of a fraction, then the fraction is improper fraction.\n(P) (Q) (R) (S)\n(A) F F F T\n(B) F T F T\n(C) F T T F\n(D) F F T F",
+        "question": "Read the following statements carefully and state 'T' for true and 'F' for false.",
         "option_type": "ABCD",
         "options": {
             "A": "F F F T",
@@ -605,9 +584,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "D",
         "hint": null,
         "explanation": "(P) False; equivalent fractions have same value but different representation. (Q) False; any improper fraction can be converted into mixed fraction. (R) True. (S) False; if numerator is less than denominator, it is a proper fraction.",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q89.jpg"
     },
     {
         "global_id": 90,
@@ -615,7 +594,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 18,
         "section": "ACHIEVERS SECTION (HOTS)",
         "id": 29,
-        "question": "Read the statements carefully and select the correct option.\nStatement-1 : A nursery has 124 flower plants, of which 30 are roses, 12 are marigold, 18 are jasmine and rest are hibiscus. The fraction of hibiscus is 16/31.\nStatement-2 : The value of (3/5 of 25 + 8/16 of 64) is 50.\n(A) Both Statement-1 and Statement-2 are false.\n(B) Both Statement-1 and Statement-2 are true.\n(C) Statement-1 is true but Statement-2 is false.\n(D) Statement-1 is false but Statement-2 is true.",
+        "question": "Read the statements carefully and select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "Both Statement-1 and Statement-2 are false.",
@@ -626,9 +605,9 @@ window.olympiadData['chapter_3.js'] = [
         "correct_answer": "C",
         "hint": null,
         "explanation": "Statement-1: Hibiscus = 124 - (30+12+18) = 64. Fraction = 64/124 = 16/31 (True). Statement-2: 3/5 of 25 + 8/16 of 64 = 15 + 32 = 47 (False).",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q90.jpg"
     },
     {
         "global_id": 91,
@@ -636,7 +615,7 @@ window.olympiadData['chapter_3.js'] = [
         "pdf_page": 19,
         "section": "ACHIEVERS SECTION (HOTS)",
         "id": 30,
-        "question": "Study the given figure carefully and answer the following questions.\n[Graphic: A grid of squares, some divided into triangles, with some parts shaded green.]\n(a) What fraction of the given figure is shaded?\n(b) How many more parts must be unshaded to make the unshaded fraction 5/6?",
+        "question": "Study the given figure carefully and answer the following questions.",
         "option_type": "ABCD",
         "options": {
             "A": "(a) 1/8, (b) 16",
@@ -648,7 +627,7 @@ window.olympiadData['chapter_3.js'] = [
         "hint": null,
         "explanation": "Total number of equal parts = 36. Number of shaded parts = 22. Shaded fraction = 22/36 = 11/18.",
         "has_graphic": true,
-        "graphic_description": "A grid of squares, some divided into triangles, with some parts shaded green.",
+        "graphic_description": null,
         "page_image": "data/images/img_q91.jpg"
     }
 ];
