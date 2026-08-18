@@ -48,7 +48,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 20,
         "section": "Mathematical Reasoning",
         "id": 3,
-        "question": "Compare and fill the box. 3 L 150 mL + 100 mL [] 4L 200 mL + 200 mL",
+        "question": "Compare and fill the box.",
         "option_type": "ABCD",
         "options": {
             "A": ">",
@@ -59,9 +59,9 @@ window.olympiadData['chapter_4.js'] = [
         "correct_answer": "B",
         "hint": null,
         "explanation": "3 L 150 mL + 100 mL = 3L 250 mL. 4 L 200 mL + 200 mL = 4 L 400 mL. As, 3 L 250 mL < 4 L 400 mL. So, 3 L 150 mL + 100 mL < 4L 200 mL + 200 mL",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q94.jpg"
     },
     {
         "global_id": 95,
@@ -90,7 +90,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 21,
         "section": "Mathematical Reasoning",
         "id": 5,
-        "question": "The capacity of [two jugs] is [five glasses]. If each glass can hold 250 mL of water, then how much water 2 such jugs can hold?",
+        "question": "Answer the question,",
         "option_type": "ABCD",
         "options": {
             "A": "1 L 150 mL",
@@ -132,7 +132,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 21,
         "section": "Mathematical Reasoning",
         "id": 7,
-        "question": "Study the given table and which of following option is costliest?\nItem: 3 shirts | 5 t-shirts | 2 kurtas\nCost: ₹ 4521 | ₹ 5460 | ₹ 3008",
+        "question": "Study the given table and which of following option is costliest?",
         "option_type": "ABCD",
         "options": {
             "A": "1 shirt + 1 kurta",
@@ -153,7 +153,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 21,
         "section": "Mathematical Reasoning",
         "id": 8,
-        "question": "Which of the following option holds?\n(P) 3826 seconds = 1 hour 3 mins 26 secs\n(Q) 162 hours = 9720 mins",
+        "question": "Which of the following option holds?",
         "option_type": "ABCD",
         "options": {
             "A": "Only (P) is true",
@@ -164,9 +164,9 @@ window.olympiadData['chapter_4.js'] = [
         "correct_answer": "B",
         "hint": null,
         "explanation": "(P) 1 hour = 3600 seconds and 1 min = 60 secs. ∴ 3826 seconds = 1 hour 3 mins 46 secs. (Q) 1 hour = 60 mins. ∴ 162 hours = 162 × 60 mins = 9720 mins",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q99.jpg"
     },
     {
         "global_id": 100,
@@ -174,7 +174,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 21,
         "section": "Mathematical Reasoning",
         "id": 9,
-        "question": "Two hundred fifty two rupees more than given amount of money is__________.\n[Image shows: ₹200 note, ₹100 note, ₹20 note, ₹10 note, three coins]",
+        "question": "Two hundred fifty two rupees more than given amount of money is__________.",
         "option_type": "ABCD",
         "options": {
             "A": "₹ 587",
@@ -186,7 +186,7 @@ window.olympiadData['chapter_4.js'] = [
         "hint": null,
         "explanation": "Amount of money shown = ₹ 200 + ₹ 100 + ₹ 20 + ₹ 10 + ₹ 2 + ₹ 1 = ₹ 335. So, ₹ 252 more than ₹ 335 = ₹ 335 + ₹ 252 = ₹ 587",
         "has_graphic": true,
-        "graphic_description": "Indian currency notes (200, 100, 20, 10) and coins",
+        "graphic_description": "Indian currency notes (200, 100, 20, 10) and coins (2, 2 , 1)",
         "page_image": "data/images/img_q100.jpg"
     },
     {
@@ -195,7 +195,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 21,
         "section": "Mathematical Reasoning",
         "id": 10,
-        "question": "Find the total length of 3 ribbons shown here.\n[Ribbon 1: 1 m 15 cm] [Ribbon 2: 225 cm] [Ribbon 3: 3 m]",
+        "question": "Find the total length of 3 ribbons shown here.",
         "option_type": "ABCD",
         "options": {
             "A": "6 m 40 cm",
@@ -216,13 +216,13 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 21,
         "section": "Mathematical Reasoning",
         "id": 11,
-        "question": "How much does [car] cost?\n[car] + [pizza] + [cupcake] + [candy] = ₹ 85\n[pizza] + [car] + [cupcake] = ₹ 75",
+        "question": "How much does 🚗 cost?",
         "option_type": "ABCD",
         "options": {
-            "A": "...",
-            "B": "...",
-            "C": "...",
-            "D": "..."
+            "A": "₹ 44",
+            "B": "₹ 55",
+            "C": "₹ 30",
+            "D": "₹ 25"
         },
         "correct_answer": "A",
         "hint": null,
@@ -237,7 +237,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 22,
         "section": "Mathematical Reasoning",
         "id": 12,
-        "question": "What is the weight of []? [Image shows a balance scale. Left side: one empty glass beaker and a pile of small spheres. Right side: one empty glass beaker and a weight labeled '15 kg 500 g']",
+        "question": "What is the weight of glass beaker?",
         "option_type": "ABCD",
         "options": {
             "A": "2100 g",
@@ -258,7 +258,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 22,
         "section": "Mathematical Reasoning",
         "id": 13,
-        "question": "Which of the following option shows the less amount than the given amount of money? [Image shows currency notes: ₹500, ₹100, ₹10, ₹5 and three coins]",
+        "question": "Which of the following option shows the less amount than the given amount of money?",
         "option_type": "ABCD",
         "options": {
             "A": "₹ 118 + ₹ 490",
@@ -300,7 +300,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 22,
         "section": "Mathematical Reasoning",
         "id": 15,
-        "question": "Total height of given blocks is 1296 cm. Find the height of 25 blocks if the height of blocks are same. [Image shows a vertical stack of 8 blocks]",
+        "question": "Total height of given blocks is 1296 cm. Find the height of 25 blocks if the height of blocks are same.",
         "option_type": "ABCD",
         "options": {
             "A": "49 m",
@@ -312,7 +312,7 @@ window.olympiadData['chapter_4.js'] = [
         "hint": null,
         "explanation": "Number of blocks = 6. Total height of 6 blocks = 1296 cm. Height of 1 block = 1296 ÷ 6 = 216 cm. So, height of 25 blocks = 216 × 25 cm = 5400 cm or 54 m.",
         "has_graphic": true,
-        "graphic_description": "vertical stack of 8 rectangular blocks",
+        "graphic_description": "vertical stack of 6 rectangular blocks",
         "page_image": "data/images/img_q106.jpg"
     },
     {
@@ -342,7 +342,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 22,
         "section": "Mathematical Reasoning",
         "id": 17,
-        "question": "The following 9 cubes are identical. Weight of each cube is ________. [Image shows a balance scale. Left side: a 3x3 cube structure. Right side: four weights labeled '500 g']",
+        "question": "The following 9 cubes are identical. Weight of each cube is ________.",
         "option_type": "ABCD",
         "options": {
             "A": "650 g",
@@ -384,7 +384,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 23,
         "section": "Mathematical Reasoning",
         "id": 19,
-        "question": "Select the incorrect option.\n(A) There are 365 days in an ordinary year.\n(B) 14:50 hours is same as 2:50 p.m.\n(C) There are 7 months each having 31 days.\n(D) 4 hours 16 mins after 10:36 a.m. is 2:52 a.m.",
+        "question": "Select the incorrect option.",
         "option_type": "ABCD",
         "options": {
             "A": "There are 365 days in an ordinary year.",
@@ -405,7 +405,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 23,
         "section": "Mathematical Reasoning",
         "id": 20,
-        "question": "Arrange the following in ascending order and select the correct option.\nP: 5 L 500 mL + 3L 40 mL\nQ: 600 mL less than 6L\nR: 10 L 750 mL - 2 L 300 mL\nS: 6 L 50 mL + 2 L",
+        "question": "Arrange the following in ascending order and select the correct option.",
         "option_type": "PQRS",
         "options": {
             "A": "Q, S, P, R",
@@ -531,7 +531,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 24,
         "section": "Achievers Section (HOTS)",
         "id": 26,
-        "question": "Harshit goes to his club every evening by his car. The distance covered by Harshit via different routes is given below. Study it carefully and select the correct option.\nRoutes | Distance\nA | 10 km\nB | 12 km 100 m\nC | 11 km 300 m\nD | 13 km\nE | 9 km 400 m\n(A) Total distance travelled by these routes is 56 km.\n(B) Route A is the shortest route.\n(C) Route B is the longest route.\n(D) None of these",
+        "question": "Harshit goes to his club every evening by his car. The distance covered by Harshit via different routes is given below. Study it carefully and select the correct option.",
         "option_type": "ABCD",
         "options": {
             "A": "Total distance travelled by these routes is 56 km.",
@@ -552,7 +552,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 24,
         "section": "Achievers Section (HOTS)",
         "id": 27,
-        "question": "The given clock shows the time at which the movie started in the evening. The movie lasts for 2 hrs 45 mins. Rahul takes 35 mins to reach his home from the theatre. Find the time at which :\n(i) The movie ends.\n(ii) Rahul reaches his home.\n(i) (ii)\n(A) 10:10 p.m. 10:45 p.m.\n(B) 10:00 p.m. 10:35 p.m.\n(C) 9:10 p.m. 9:45 p.m.\n(D) 9:00 p.m. 9:35 p.m.",
+        "question": "The given clock shows the time at which the movie started in the evening. The movie lasts for 2 hrs 45 mins. Rahul takes 35 mins to reach his home from the theatre. Find the time at which :",
         "option_type": "ABCD",
         "options": {
             "A": "10:10 p.m. 10:45 p.m.",
@@ -573,7 +573,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 24,
         "section": "Achievers Section (HOTS)",
         "id": 28,
-        "question": "Match the following and select the correct option.\n24 hours clock | 12 hour clock\n(i) 12 : 20 hours | (P) 11 : 24 p.m.\n(ii) 15 : 24 hours | (Q) 8 : 20 p.m.\n(iii) 20 : 20 hours | (R) 12 : 20 p.m.\n(iv) 23 : 24 hours | (S) 3 : 24 p.m.\n(i) (ii) (iii) (iv)\n(A) (S) (R) (Q) (P)\n(B) (R) (S) (Q) (P)\n(C) (S) (R) (P) (Q)\n(D) (R) (S) (P) (Q)",
+        "question": "Match the following and select the correct option.",
         "option_type": "PQRS",
         "options": {
             "A": "(S) (R) (Q) (P)",
@@ -584,9 +584,9 @@ window.olympiadData['chapter_4.js'] = [
         "correct_answer": "B",
         "hint": null,
         "explanation": "(i) 12 : 20 hours = 12 : 20 p.m. (ii) 15 : 24 hours = 3 : 24 p.m. (iii) 20 : 20 hours = 8 : 20 p.m. (iv) 23 : 24 hours = 11 : 24 p.m.",
-        "has_graphic": false,
+        "has_graphic": true,
         "graphic_description": null,
-        "page_image": null
+        "page_image": "data/images/img_q119.jpg"
     },
     {
         "global_id": 120,
@@ -594,7 +594,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 25,
         "section": "Achievers Section (HOTS)",
         "id": 29,
-        "question": "The price of [2 packets of chips] and [1 soft drink can] is ₹ 100. The price of [1 packet of chips] and [1 soft drink can] is ₹ 70. If the price of [2 packets of chips], [2 soft drink cans] and [1 popcorn bucket] is ₹ 175, then find the cost of 2 packets of popcorns.",
+        "question": "Answer the question,",
         "option_type": "ABCD",
         "options": {
             "A": "₹ 30",
@@ -615,7 +615,7 @@ window.olympiadData['chapter_4.js'] = [
         "pdf_page": 25,
         "section": "Achievers Section (HOTS)",
         "id": 30,
-        "question": "Anamika has 12 kg 350 g of wheat flour. She used 3 kg 100 g of flour in the first week, 4 kg 180 g of flour in the next week. If she uses (1/3)rd of the remaining flour in the coming week, then how much flour will be left after this week?",
+        "question": "Anamika has 12 kg 350 g of wheat flour. She used 3 kg 100 g of flour in the first week, 4 kg 180 g of flour in the next week. If she uses (¹⁄₃)rd of the remaining flour in the coming week, then how much flour will be left after this week?",
         "option_type": "ABCD",
         "options": {
             "A": "3 kg 380 g",
@@ -625,7 +625,7 @@ window.olympiadData['chapter_4.js'] = [
         },
         "correct_answer": "A",
         "hint": null,
-        "explanation": "Total quantity of flour = 12 kg 350 g. Quantity of flour used in two weeks = 3 kg 100 g + 4 kg 180 g = 7 kg 280 g. So, remaining quantity of flour = 12 kg 350 g - 7 kg 280 g = 5 kg 70 g = 5070 g. Now, 1/3rd of 5070 g = 1/3 * 5070 g = 1690 g. So, quantity of flour left = 5070 g - 1690 g = 3380 g = 3 kg 380 g",
+        "explanation": "Total quantity of flour = 12 kg 350 g. Quantity of flour used in two weeks = 3 kg 100 g + 4 kg 180 g = 7 kg 280 g. So, remaining quantity of flour = 12 kg 350 g - 7 kg 280 g = 5 kg 70 g = 5070 g. Now, (¹⁄₃)rd of 5070 g = 1/3 * 5070 g = 1690 g. So, quantity of flour left = 5070 g - 1690 g = 3380 g = 3 kg 380 g",
         "has_graphic": false,
         "graphic_description": null,
         "page_image": null
